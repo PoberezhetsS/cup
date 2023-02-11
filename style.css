@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=PT+Serif&display=swap');
+
+.body{
+    background-color: #eee;
+ 
+
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.logoFoto{
+    height: 130px;
+    width: 130px;
+}
+
+.logo{
+    font-size: 100px;
+    font-weight: bold;
+    font-family: 'Lobster';
+    letter-spacing: 4px;
+    text-shadow: 1px 1px #464141;
+    color: #928585;
+    text-align: left;
+}
+.karzina{
+    height: 100px;
+    width: 100px;
+    color: #4d4f5e;
+}
+.header{
+    display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px;
+  padding:10px;
+  background-color:#eee;
+
+  height: 130px;
+  
+}
+.karzina:hover{
+background-color: #796969;
+border-radius: 4px;
+}
+.cart{
+    background-color : #eee;
+    width: 300px;
+    height: 400px;
+    border-radius: 20px;
+    padding: 20px;
+   
+    
+}
+.cart_many{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5vw;
+}
+.carta_titel{
+    margin-top: 20px;
+    font-size: 40px;
+    font-family: 'Lobster';
+    letter-spacing: 4px;
+    text-shadow: 1px 1px #464141;
+    color: #928585;
+    text-align: left;
+   
+}
+.brovn_cap{
+    height: 250px;
+    width: 250px;
+}
+.btn {
+    width: 100px;
+    height: 50px;
+    background-color: #611a1a;
+       
+        
+        
+   
+    }
+    
+  .btn:hover {
+    background-color: #796969;
+        
+    }
+    
+
+.btn2{
+    width: 100px;
+    height: 50px;
+    background-color: #611a1a;
+
+   
+
+}
+
+.btn_two{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+
+.btn2:hover{
+    background-color: #796969;
+}
+.cart_many{
+    margin: 20px;
+  padding:10px;
+background-color: #eee;
+
+}
+
+
+.text_material{
+  font-size: 12px;
+  color: #464141;
+  
+}
